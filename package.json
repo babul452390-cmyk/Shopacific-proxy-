@@ -1,7 +1,0 @@
-{
-  "name": "shopacific-cj-proxy",
-  "version": "1.0.0",
-  "description": "Shopacific CJ Dropshipping Proxy — Vercel Serverless",
-  "private": true,
-  "engines": { "node": "20.x" }
-}
